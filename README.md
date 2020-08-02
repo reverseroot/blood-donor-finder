@@ -7,4 +7,5 @@ Create a virutal environment inside blood-donor-finder
 
 >> (env) pip install -r requirements.txt
 >> export FLASK_APP=codebase
+
 >> flask run
